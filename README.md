@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🚀 About Me
+
+🎓 I am Piyush Vishwakarma, a **Front End Web Developer** (specializing in **React Applications**) . I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2026.
+
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **singing**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
+
+📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
+
+✈️ I love **traveling** too. I have been on solo trips to **Mumbai** in _2018_ and to **kerala, India** in _2021_.
