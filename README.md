@@ -1,6 +1,6 @@
 ### Hii there! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
-![](https://komarev.com/ghpvc/?username=Piyushvishwak )
+![](https://komarev.com/ghpvc/?username=piyushvishwak )
 
 ## 🚀 About Me
 
