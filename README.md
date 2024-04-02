@@ -1,4 +1,5 @@
-### Hii there 👋
+### Hii there! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+<br>
 
 ## 🚀 About Me
 
