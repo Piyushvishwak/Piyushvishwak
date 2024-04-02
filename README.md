@@ -1,6 +1,6 @@
 ### Hii there! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
-<img src="https://komarev.com/ghpvc/?username=Piyushvishwak&label=Profile%20views&color=0e75b6&style=flat"
+<img src="https://komarev.com/ghpvc/?username=Piyushvishwak&label=Profile%20views&color=blue&style=flat"
 ## 🚀 About Me
 
 🎓 I am Piyush Vishwakarma, a **Front End Web Developer** (specializing in **React Applications**) . I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2026.
