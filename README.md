@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=Piyushvishwak&label=Profile%20views&color=blue&style=flat"
 ## 🚀 About Me
 
-🎓 I am Piyush Vishwakarma, a **Front End Web Developer** (specializing in **React Applications**) . I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2026.
+🎓 I am Piyush Vishwakarma, a **Full Stack Web Developer** (specializing in **React Applications**) . I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2026.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **singing**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
 
