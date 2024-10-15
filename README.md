@@ -8,7 +8,7 @@
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **singing**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
 
 📚 I also love reading books on **personal development** & **financial literacy**.
-✈️ I love **traveling** too. I have been on solo trips to **Mumbai** in _2018_ and to **kerala, India** in _2021_.
+✈️ I love **traveling** too. I have been on solo trips to **Mumbai** in _2018_ and to **kerala, India** in _2021_ and group trip to **Nanital and Manali** in _2024_.
 
 - 👨‍🏭 I’m currently pursuing <b>B.Tech CSE From Lovely Professional University</b> <br>
 - 🏫 I’m currently learning <b>Data Structures And MERN Stack Development</b> <br>
